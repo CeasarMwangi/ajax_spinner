@@ -17,7 +17,7 @@
 <div id="div1"><h2>Let jQuery AJAX Change This Text</h2></div>
 
 <button>Get External Content</button>
-<h1>hello world</h1>
+<h1>hello by kanja</h1>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="src/loadingoverlay.min.js"></script>
